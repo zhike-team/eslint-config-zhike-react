@@ -1,0 +1,31 @@
+{
+  "name": "@zhike/eslint-config-react",
+  "version": "0.0.1",
+  "description": "Zhike ESLint Shared Configuation For React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhike-team/eslint-config-zhike-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "zhike"
+  ],
+  "author": "Yudu Ban <banyudu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhike-team/eslint-config-zhike-react/issues"
+  },
+  "homepage": "https://github.com/zhike-team/eslint-config-zhike-react#readme",
+  "peerDependencies": {
+    "eslint": ">= 5.10.0",
+    "eslint-plugin-standard": ">=3.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
