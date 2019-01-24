@@ -1,4 +1,8 @@
 module.exports = {
   extends: ['@zhike', 'standard-react'],
-  rules: { },
+  settings: {
+    react: {
+      version: 'detect'
+    }
+  }
 }
